@@ -1,3 +1,5 @@
+;adklfj;asdklfja;sdlkfj;aslkdfj
+;skdfja;sklfj;sadlkfj
 for filename in $*
 do 
 	echo $filename
